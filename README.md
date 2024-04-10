@@ -18,5 +18,5 @@
 
 <div>
 <a href="https://instagram.com/_creatspace_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-764d9c?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:kriscreatspace@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-764d9c?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:kriscreatspace@gmail.com"><img src="https://img.shields.io/badge/-Gmail-764d9c?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
