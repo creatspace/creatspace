@@ -7,7 +7,7 @@
    </div>
 
    <div style="display: inline"><br>
-   <img align="center" alt= "Js" height="25em" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"&logoColor=white">
+   <img align="center" alt= "Js" height="25em" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain colored.svg">
     <img align="center" alt= "Js" height="30em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" alt= "Js" height="30em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    </div>
